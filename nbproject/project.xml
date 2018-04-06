@@ -6,8 +6,14 @@
             <name>Tech-Rex</name>
         </data>
         <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>cardbody</word>
             <word>fnc</word>
             <word>ht</word>
+            <word>jacb</word>
+            <word>JACOB</word>
+            <word>jaj</word>
+            <word>php</word>
+            <word>REX</word>
         </spellchecker-wordlist>
     </configuration>
 </project>

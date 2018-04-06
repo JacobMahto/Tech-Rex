@@ -16,11 +16,11 @@ if (isset($_POST['submit'])) {
     <body>
         <header>
             <div class="top">
-                TECH-RES SERVER POWERED BY JACOB RESEARCH LAB                   
+                TECH-REX SERVER POWERED BY JACOB RESEARCH LAB                   
             </div>
 
         </header>
-        <form action="login.php" method="post">
+        <form action="fee/feeCentral.php" method="post">
 
             <div class="imgcontainer">
                 <img src="images/schoolLogo.jpg" alt="Avatar" class="avatar">
@@ -33,14 +33,14 @@ if (isset($_POST['submit'])) {
                 <label for="psw"><b>Password</b></label>
                 <input type="password" placeholder="Enter Password" name="psw" required>
 
-                <button type="submit" name="submit">Login</button>
+                <button type="submit" name="submit">ACCESS OVERRIDE</button>
                 <label>
                     <input type="checkbox" checked="checked" name="remember"> Remember me
                 </label>
             </div>
 
             <div class="container" style="background-color:#f1f1f1">
-                <button type="button" class="cancelbtn">Cancel</button>
+                <button type="button" class="cancelbtn">Register</button>
                 <span class="psw">Forgot <a href="#">password?</a></span>
             </div>
         </form>

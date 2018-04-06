@@ -5,8 +5,7 @@
         <title>Hello</title>
     </head>
     <body>
-        <?php
-        echo "hello";
-        ?>
+         <script>window.location = 'login.php';</script>
+        
     </body>
 </html>

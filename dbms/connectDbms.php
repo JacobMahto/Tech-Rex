@@ -9,7 +9,7 @@ $socket = '';
 $connection = mysqli_connect($host,$username,$password,$dbName);
 
 if($connection){
-    echo 'We are connected';
+    
 }
 else{
     die('Database connection failed.');
